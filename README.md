@@ -6,7 +6,7 @@ Funcionalidades
 
 - Cadastrar novos contatos (nome, telefone, e-mail e categoria)
 - Listar todos os contatos em uma tabela
-- Pesquisar contatos por nome em tempo real (`LIKE`)
+- Pesquisar contatos por nome em tempo real 
 - Editar contatos existentes
 - Excluir contatos, com confirmação
 - Clicar em uma linha da tabela para carregar os dados nos campos do formulário
